@@ -8,3 +8,4 @@ function moveButton() {
     document.getElementById('noButton').style.left = `${x}px`;
     document.getElementById('noButton').style.top = `${y}px`;
 }
+
